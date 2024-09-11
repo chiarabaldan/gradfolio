@@ -1,6 +1,5 @@
 html, body {
-    height: 100%;
-    margin: 0; // Rimuovi il margine per evitare problemi di layout
+  height: 100%;
 }
 
 body {
@@ -14,9 +13,7 @@ body {
   padding: 2em 1em;
   text-rendering: optimizeLegibility;
   height: 100%;
-  min-height: 100vh;
-  //overflow-y: hidden;
-  
+
   @media (prefers-color-scheme: dark) {
     background-color: $body-bg-dark;
     color: $text-color-dark;
@@ -30,6 +27,7 @@ h1,h2,h3,h4,h5,h6 {
   margin: 0;
   text-transform: inherit;
 }
+
 
 a {
   color: $brand-color;
@@ -195,10 +193,3 @@ blockquote {
       background: #f7f7f7;
   }
 }
-
-/* Article list in blog and archive page */
-.article-list {
-  margin: 1em 0;
-}
-
-
