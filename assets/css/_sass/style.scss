@@ -15,7 +15,7 @@ body {
   text-rendering: optimizeLegibility;
   height: 100%;
   min-height: 100vh;
-  overflow-y: hidden;
+  //overflow-y: hidden;
   
   @media (prefers-color-scheme: dark) {
     background-color: $body-bg-dark;
@@ -30,15 +30,6 @@ h1,h2,h3,h4,h5,h6 {
   margin: 0;
   text-transform: inherit;
 }
-
-
-
-main {
-    flex: 1; // Occupare lo spazio rimanente per spingere il footer verso il fondo
-}
-
-
-
 
 a {
   color: $brand-color;
