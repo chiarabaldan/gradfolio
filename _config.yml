@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Chiara Baldan
+description: #subtitle | affiliations | motto
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -14,9 +14,9 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "#"
+linkedin: chiara-baldan-493220211 "#"
 stackoverflow: "#"
-github: "#"
+github: chiarabaldan "#"
 researchgate: "#"
 orcid: "#"
 quora: "#"
