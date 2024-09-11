@@ -1,7 +1,9 @@
 /* Footer */
 footer {
-    clear: both;
-    margin-top: 2em;
+    margin-top: auto; // Spinge il footer verso il fondo della pagina
+    padding: 1em; // Aggiungi spazio attorno al footer
+    background-color: // #f1f1f1; // Colore di sfondo (opzionale)
+    text-align: center;
 }
 
 /* Footer navigation links */
@@ -13,5 +15,5 @@ footer {
 .copy {
     color: #aaa;
     text-align: center;
-    font-size: 0.75em; /* Modifica questa dimensione se necessario */
+    font-size: 0.75em; // Modifica questa dimensione se necessario
 }
