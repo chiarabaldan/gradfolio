@@ -13,7 +13,9 @@ body {
   padding: 2em 1em;
   text-rendering: optimizeLegibility;
   height: 100%;
-
+  min-height: 100vh;
+  overflow-y: hidden;
+  
   @media (prefers-color-scheme: dark) {
     background-color: $body-bg-dark;
     color: $text-color-dark;
