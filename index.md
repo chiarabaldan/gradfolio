@@ -21,5 +21,7 @@ PS: If you liked the theme, do star it on GitHub!
 - [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog -->
 
 I’m a Research Fellow at the University of Padova, specializing in social statistics and demography. 
+
 My research focuses on fertility trends and childlessness, blending data with a curiosity for understanding population dynamics.  
-Check out my works!
+
+Check out my [works](https://chiarabaldan.github.io/gradfolio/projects/){:target="_blank"}!
