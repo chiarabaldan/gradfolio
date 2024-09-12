@@ -14,11 +14,11 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 #twitter: "#"
-linkedin: chiara-baldan-493220211 "#"
+linkedin: chiara-baldan-493220211 
 #stackoverflow: "#"
-github: chiarabaldan "#"
+github: chiarabaldan 
 #researchgate: "#"
-#orcid: "#"
+orcid: 0009-0000-2508-6953 
 #quora: "#"
 #instagram: "#"
 #facebook: "#"
