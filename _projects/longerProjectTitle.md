@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "FER-MO: Italians’ FERtility MOtivations in disorienting and uncertain time"
-description: short project description
+title: "FER-MO"
+description: "Italians’ FERtility MOtivations in disorienting and uncertain time"
 ---
 
 ![Calendar](https://www.flaticon.com/svg/static/icons/svg/2838/2838779.svg) September 2024 - Present
 
 Analysis of Italians' fertility motivations in the context of macro factors such as the pandemic, economic uncertainties, geopolitical tensions and climate crises, as part of a research project funded by the European Union – NextGenerationEU.
 
-**Keywords**: Italian low fertility, fertility intentions, fertility realizations, fertility motivations, environmental shocks, global shocks
+**Keywords**: Italian Low Fertility · Fertility Intentions · Fertility Realizations · Fertility Motivations · Environmental Shocks · Global Shocks
 
 
 
