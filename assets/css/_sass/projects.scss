@@ -118,21 +118,26 @@
   }
 }
 
-.icon-container {
+.info-container {
   display: flex;
-  align-items: center;
-  gap: 15px; /* Spazio tra icone e testo */
+  justify-content: space-between; /* Distribuisce lo spazio tra i blocchi */
 }
 
-.icon-container i {
+.info-block {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* Spazio tra l'icona e il testo */
+}
+
+.info-block i {
   font-size: 24px; /* Dimensione dell'icona */
 }
 
-.icon-container .text {
+.info-text {
   font-size: 0.9rem; /* Dimensione del testo */
 }
 
-.icon-container .text small {
+.info-text small {
   display: block;
   font-size: 0.7rem; /* Dimensione del testo secondario */
 }
