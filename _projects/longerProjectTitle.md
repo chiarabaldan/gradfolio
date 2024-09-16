@@ -4,8 +4,7 @@ title: A longer Project Title
 description: short project description
 ---
 
----
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+--- Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
 H1 Header
 ============
@@ -146,5 +145,4 @@ and images can be specified like so:
 Inline math equation: $\omega = d\phi / dt$. Display
 math should get its own line like so:
 
-$$I = \int \rho R^{2} dV$$
---->
+$$I = \int \rho R^{2} dV$$ --->
