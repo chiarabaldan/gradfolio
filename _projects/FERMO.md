@@ -5,7 +5,21 @@ description: "Italians’ FERtility MOtivations in disorienting and uncertain ti
 ---
 ***Italians’ FERtility MOtivations in disorienting and uncertain time***
 
-<img src="calendar.png" alt="Calendar" class="icon"> September 2024 - Present
+<div style="display: flex; align-items: center; gap: 10px;">
+    <i class="fas fa-calendar" style="font-size: 24px;"></i>
+    <div>
+        <small>DATE</small><br>
+        September 2024 - Present
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+    <i class="fas fa-map-marker-alt" style="font-size: 24px;"></i>
+    <div>
+        <small>VENUE</small><br>
+        University of Padova
+    </div>
+</div>
 
 Analysis of Italians' fertility motivations in the context of macro factors such as the pandemic, economic uncertainties, geopolitical tensions and climate crises, as part of a research project funded by the European Union – NextGenerationEU.
 
