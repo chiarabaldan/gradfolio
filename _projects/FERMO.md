@@ -9,12 +9,14 @@ description: "Italians’ FERtility MOtivations in disorienting and uncertain ti
 
 Analysis of Italians' fertility motivations in the context of macro factors such as the pandemic, economic uncertainties, geopolitical tensions and climate crises, as part of a research project funded by the European Union – NextGenerationEU.
 
-**Keywords**: Italian Low Fertility · Fertility Intentions · Fertility Realizations · Fertility Motivations · Environmental Shocks · Global Shocks
+<span style="font-size: 0.85em;"><strong>Keywords</strong>: Italian Low Fertility · Fertility Intentions · Fertility Realizations · Fertility Motivations · Environmental Shocks · Global Shocks</span>
+
 
 
 
 
 <!-- Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+**Keywords**: Italian Low Fertility · Fertility Intentions · Fertility Realizations · Fertility Motivations · Environmental Shocks · Global Shocks
 
 H1 Header
 ============
