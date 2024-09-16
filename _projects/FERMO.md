@@ -5,6 +5,9 @@ description: "Italians’ FERtility MOtivations in disorienting and uncertain ti
 ---
 ***Italians’ FERtility MOtivations in disorienting and uncertain time***
 
+
+
+<!--
 <div style="display: flex; align-items: center; gap: 10px;">
     <i class="fas fa-calendar" style="font-size: 24px;"></i>
     <div>
@@ -20,6 +23,7 @@ description: "Italians’ FERtility MOtivations in disorienting and uncertain ti
         <small>University of Padova</small><br>
     </div>
 </div>
+--->
 
 Analysis of Italians' fertility motivations in the context of macro factors such as the pandemic, economic uncertainties, geopolitical tensions and climate crises, as part of a research project funded by the European Union – NextGenerationEU.
 
