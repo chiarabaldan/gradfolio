@@ -5,7 +5,7 @@ description: "Italians’ FERtility MOtivations in disorienting and uncertain ti
 ---
 ***Italians’ FERtility MOtivations in disorienting and uncertain time***
 
-<img src="/gradfolio/calendar.png" alt="Calendar" class="icon"> September 2024 - Present
+<img src="calendar.png" alt="Calendar" class="icon"> September 2024 - Present
 
 Analysis of Italians' fertility motivations in the context of macro factors such as the pandemic, economic uncertainties, geopolitical tensions and climate crises, as part of a research project funded by the European Union – NextGenerationEU.
 
