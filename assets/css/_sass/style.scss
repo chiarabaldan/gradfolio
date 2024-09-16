@@ -199,7 +199,7 @@ blockquote {
   margin: 1em 0;
 }
 
-/* Aggiungi queste regole al file SASS appropriato */
+/* Aggiungi o modifica queste regole nel tuo file SASS */
 .info-container {
   display: flex;
   justify-content: space-between;
@@ -208,19 +208,21 @@ blockquote {
 
 .info-block {
   display: flex;
-  align-items: center;
-  gap: 10px; /* Spazio tra icona e testo */
+  flex-direction: column; /* Imposta la direzione del layout in colonna */
+  align-items: center; /* Centra gli elementi orizzontalmente */
+  gap: 5px; /* Riduce lo spazio tra icona e testo */
 }
 
 .info-block i {
-  font-size: 24px; /* Dimensione dell'icona */
+  font-size: 28px; /* Aumenta la dimensione dell'icona */
 }
 
 .info-text {
-  font-size: 0.9rem; /* Dimensione del testo */
+  font-size: 1rem; /* Aumenta la dimensione del testo */
+  text-align: center; /* Allinea il testo al centro */
 }
 
 .info-text small {
   display: block;
-  font-size: 0.7rem; /* Dimensione del testo secondario */
+  font-size: 0.8rem; /* Dimensione del testo secondario */
 }
