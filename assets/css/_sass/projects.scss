@@ -118,4 +118,10 @@
   }
 }
 
+.icon {
+  width: 24px;  /* Imposta la larghezza dell'icona */
+  height: 24px; /* Imposta l'altezza dell'icona */
+  vertical-align: middle; /* Allinea l'icona al centro verticalmente con il testo */
+  margin-right: 8px; /* Spazio tra l'icona e il testo */
+}
 //Based on: https://codepen.io/GeorgePark/pen/vdqYom
