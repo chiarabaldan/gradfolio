@@ -5,18 +5,18 @@ description: "Italians’ FERtility MOtivations in disorienting and uncertain ti
 ---
 ***Italians’ FERtility MOtivations in disorienting and uncertain time***
 
-<div class="icon-container">
-    <i class="fas fa-calendar"></i>
-    <div class="text">
-        <small>DATE</small>
+<div style="display: flex; align-items: center; gap: 10px;">
+    <i class="fas fa-calendar" style="font-size: 24px;"></i>
+    <div>
+        <small>DATE</small><br>
         September 2024 - Present
     </div>
 </div>
 
-<div class="icon-container" style="margin-top: 10px;">
-    <i class="fas fa-map-marker-alt"></i>
-    <div class="text">
-        <small>VENUE</small>
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+    <i class="fas fa-map-marker-alt" style="font-size: 24px;"></i>
+    <div>
+        <small>VENUE</small><br>
         University of Padova
     </div>
 </div>
