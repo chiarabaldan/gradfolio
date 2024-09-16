@@ -49,7 +49,7 @@ collections:
     permalink: /projects/:name/
     order:
       #- shortProject.md
-      - project1.md
+      - FERMO.md
       #- redirect.md
       #- project4.md
       #- project5.md
