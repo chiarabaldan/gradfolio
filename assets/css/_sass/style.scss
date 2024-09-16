@@ -198,3 +198,29 @@ blockquote {
 .article-list {
   margin: 1em 0;
 }
+
+/* Aggiungi queste regole al file SASS appropriato */
+.info-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem; /* Spazio sopra il contenitore */
+}
+
+.info-block {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* Spazio tra icona e testo */
+}
+
+.info-block i {
+  font-size: 24px; /* Dimensione dell'icona */
+}
+
+.info-text {
+  font-size: 0.9rem; /* Dimensione del testo */
+}
+
+.info-text small {
+  display: block;
+  font-size: 0.7rem; /* Dimensione del testo secondario */
+}
