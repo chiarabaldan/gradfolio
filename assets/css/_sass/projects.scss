@@ -117,29 +117,4 @@
     margin: 0;
   }
 }
-
-.info-container {
-  display: flex;
-  justify-content: space-between; /* Distribuisce lo spazio tra i blocchi */
-}
-
-.info-block {
-  display: flex;
-  align-items: center;
-  gap: 10px; /* Spazio tra l'icona e il testo */
-}
-
-.info-block i {
-  font-size: 24px; /* Dimensione dell'icona */
-}
-
-.info-text {
-  font-size: 0.9rem; /* Dimensione del testo */
-}
-
-.info-text small {
-  display: block;
-  font-size: 0.7rem; /* Dimensione del testo secondario */
-}
-
 //Based on: https://codepen.io/GeorgePark/pen/vdqYom
