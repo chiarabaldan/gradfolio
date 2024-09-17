@@ -203,14 +203,17 @@ blockquote {
 /* Aggiungi queste regole al file SASS appropriato */
 .info-container {
   display: flex;
-  justify-content: space-between;
-  margin-top: 1rem; /* Spazio sopra il contenitore */
+  justify-content: space-between; /* Spazio tra i blocchi per allinearli ai lati */
+  align-items: center; /* Allinea verticalmente al centro le icone e i testi */
+  max-width: 800px; /* Limita la larghezza del contenitore */
+  margin: 0 auto; /* Centra il contenitore orizzontalmente */
 }
 
 .info-block {
   display: flex;
-  align-items: center;
-  gap: 10px; /* Spazio tra icona e testo */
+  flex-direction: column; /* Dispone le icone e il testo in colonna */
+  align-items: center; /* Centra gli elementi orizzontalmente */
+  gap: 5px; /* Spazio tra l'icona e il testo */
 }
 
 .info-block i {
@@ -218,10 +221,16 @@ blockquote {
 }
 
 .info-text {
-  font-size: 0.9rem; /* Dimensione del testo */
+  font-size: 1rem; /* Dimensione del testo */
+  text-align: center; /* Testo centrato */
 }
 
 .info-text small {
   display: block;
-  font-size: 0.7rem; /* Dimensione del testo secondario */
+  font-size: 0.9rem; /* Dimensione della scritta "DATE" e "VENUE" */
+  margin-bottom: 5px; /* Spazio tra il titolo e il contenuto */
+}
+
+.info-text div {
+  font-size: 1rem; /* Dimensione del testo principale (Date e Venue) */
 }
