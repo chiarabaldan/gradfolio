@@ -10,7 +10,7 @@ description: "Italians’ FERtility MOtivations in disorienting and uncertain ti
         <i class="fas fa-calendar"></i>
         <div class="info-text">
             <small>DATE</small>
-            <small>September 2024 - Present</small>
+            <div>September 2024 - Present</div>
         </div>
     </div>
 
@@ -18,10 +18,11 @@ description: "Italians’ FERtility MOtivations in disorienting and uncertain ti
         <i class="fas fa-map-marker-alt"></i>
         <div class="info-text">
             <small>VENUE</small>
-            <small>University of Padova</small>
+            <div>University of Padova</div>
         </div>
     </div>
 </div>
+
 
 <!--
 <div style="display: flex; align-items: center; gap: 10px;">
