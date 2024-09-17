@@ -118,3 +118,40 @@
   }
 }
 //Based on: https://codepen.io/GeorgePark/pen/vdqYom
+
+
+
+/* Aggiungi queste regole al file SASS appropriato */
+.info-container {
+  display: flex;
+  justify-content: flex-start; /* Allinea i blocchi di info a sinistra */
+  gap: 20px; /* Distanza tra "DATE" e "VENUE" */
+  max-width: 800px; /* Limita la larghezza del contenitore */
+  margin: 0 auto; /* Centra il contenitore orizzontalmente */
+}
+
+.info-block {
+  display: flex;
+  flex-direction: row; /* Dispone l'icona e il testo in fila */
+  align-items: center; /* Allinea verticalmente icona e testo */
+  gap: 10px; /* Spazio tra l'icona e il testo */
+}
+
+.info-block i {
+  font-size: 28px; /* Dimensione dell'icona */
+}
+
+.info-text {
+  font-size: 1rem; /* Dimensione del testo */
+  text-align: left; /* Testo allineato a sinistra */
+}
+
+.info-text small {
+  display: block;
+  font-size: 0.9rem; /* Dimensione della scritta "DATE" e "VENUE" */
+  margin-bottom: 5px; /* Spazio tra il titolo e il contenuto */
+}
+
+.info-text div {
+  font-size: 1rem; /* Dimensione del testo principale (Date e Venue) */
+}
