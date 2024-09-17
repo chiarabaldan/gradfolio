@@ -200,7 +200,7 @@ blockquote {
 }
 
 
-/* Aggiungi o modifica queste regole nel tuo file SASS */
+/* Aggiungi queste regole al file SASS appropriato */
 .info-container {
   display: flex;
   justify-content: space-between;
@@ -209,21 +209,19 @@ blockquote {
 
 .info-block {
   display: flex;
-  flex-direction: column; /* Imposta la direzione del layout in colonna */
-  align-items: center; /* Centra gli elementi orizzontalmente */
-  gap: 5px; /* Riduce lo spazio tra icona e testo */
+  align-items: center;
+  gap: 10px; /* Spazio tra icona e testo */
 }
 
 .info-block i {
-  font-size: 28px; /* Aumenta la dimensione dell'icona */
+  font-size: 24px; /* Dimensione dell'icona */
 }
 
 .info-text {
-  font-size: 1rem; /* Aumenta la dimensione del testo */
-  /*  text-align: center; Allinea il testo al centro */
+  font-size: 0.9rem; /* Dimensione del testo */
 }
 
 .info-text small {
   display: block;
-  font-size: 0.8rem; /* Dimensione del testo secondario */
+  font-size: 0.7rem; /* Dimensione del testo secondario */
 }
