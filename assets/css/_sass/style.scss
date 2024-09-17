@@ -203,8 +203,8 @@ blockquote {
 /* Aggiungi queste regole al file SASS appropriato */
 .info-container {
   display: flex;
-  justify-content: space-between; /* Spazio tra i blocchi per allinearli ai lati */
-  align-items: center; /* Allinea verticalmente al centro le icone e i testi */
+  /*  justify-content: space-between; Spazio tra i blocchi per allinearli ai lati */
+  /* align-items: center; Allinea verticalmente al centro le icone e i testi */
   max-width: 800px; /* Limita la larghezza del contenitore */
   margin: 0 auto; /* Centra il contenitore orizzontalmente */
 }
@@ -217,7 +217,7 @@ blockquote {
 }
 
 .info-block i {
-  font-size: 24px; /* Dimensione dell'icona */
+  font-size: 28px; /* Dimensione dell'icona */
 }
 
 .info-text {
